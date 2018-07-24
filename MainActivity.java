@@ -1,4 +1,4 @@
-package my.Smoking.Kills.app
+package my.Smoking.Kills.app;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
