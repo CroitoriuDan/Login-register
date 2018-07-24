@@ -1,4 +1,4 @@
-package ro.liis.todoapp;
+package my.Smoking.Kills.app;
 
 import android.Manifest;
 import android.content.Intent;
